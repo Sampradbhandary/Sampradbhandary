@@ -1,7 +1,12 @@
-<!-- 🔷 HEADER BANNER -->
+<!-- 🔹 Typing Intro Animation -->
 <p align="center">
-  <img src=""C:\Users\sampr\OneDrive\Desktop\robo.png"" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Hi%2C+I+am+Samprad" alt="Typing Intro" />
 </p>
+
+<!-- 🔷 Optional Banner -->
+<!-- <p align="center">
+  <img src="https://raw.githubusercontent.com/your-github-username/your-repo/main/assets/banner.gif" alt="Robotics Banner" width="100%">
+</p> -->
 
 <h1 align="center">🤖 Robotics & Automation Engineer</h1>
 
@@ -27,35 +32,35 @@ I specialize in:
 ## 💻 Tech Stack & Tools
 
 <p align="center">
-  <!-- Programming Languages -->
+  <!-- Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=Mathworks&logoColor=white"/>
   <img src="https://img.shields.io/badge/Embedded%20C-004482?style=for-the-badge&logo=c&logoColor=white"/>
 
-  <!-- Robotics Platforms -->
+  <!-- Robotics -->
   <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
   <img src="https://img.shields.io/badge/ROS2-111111?style=for-the-badge&logo=ros&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gazebo-2C3E50?style=for-the-badge&logo=Gazebo&logoColor=white"/>
   <img src="https://img.shields.io/badge/RViz-1A1A1A?style=for-the-badge&logo=ROS&logoColor=white"/>
 
-  <!-- Embedded Hardware -->
+  <!-- Embedded -->
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
   <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=STMicroelectronics&logoColor=white"/>
   <img src="https://img.shields.io/badge/ESP32-FF6F00?style=for-the-badge&logo=espressif&logoColor=white"/>
 
-  <!-- Computer Vision / AI -->
+  <!-- Vision / AI -->
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/YOLOv8-000000?style=for-the-badge&logo=darkreader&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 
-  <!-- Simulation & CAD -->
+  <!-- CAD & Simulation -->
   <img src="https://img.shields.io/badge/Fusion360-FA7E00?style=for-the-badge&logo=autodesk&logoColor=white"/>
   <img src="https://img.shields.io/badge/SolidWorks-E00000?style=for-the-badge&logo=dassaultsystemes&logoColor=white"/>
   <img src="https://img.shields.io/badge/ANSYS-FFB400?style=for-the-badge&logo=ansys&logoColor=black"/>
 
-  <!-- Control & Automation -->
+  <!-- Automation -->
   <img src="https://img.shields.io/badge/PLC-003399?style=for-the-badge&logo=siemens&logoColor=white"/>
   <img src="https://img.shields.io/badge/SCADA-008B8B?style=for-the-badge&logo=openaccess&logoColor=white"/>
   <img src="https://img.shields.io/badge/Modbus-0033CC?style=for-the-badge&logo=modbus&logoColor=white"/>
@@ -94,16 +99,12 @@ I specialize in:
 
 ## 🖼️ Portfolio Snapshots
 
-> Here’s a quick visual overview of some of my robotics, automation, and hardware projects:
+> Here's a visual taste of my robotic and embedded projects:
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/your-github-username/your-repo/main/images/project1.jpg" width="250" alt="Project 1"/>
   <img src="https://raw.githubusercontent.com/your-github-username/your-repo/main/images/project2.jpg" width="250" alt="Project 2"/>
   <img src="https://raw.githubusercontent.com/your-github-username/your-repo/main/images/project3.jpg" width="250" alt="Project 3"/>
-</p>
-
-<p align="center">
-  <i>Want to see more? Visit my portfolio or social platforms below 👇</i>
 </p>
 
 ---
