@@ -1,9 +1,54 @@
-Hi there, I'm samprad bhandary👋 ## 🚀  Developer & robotics and automation ,Creating digital marketiong experiences that blend beautiful design with powerful functionality. [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white)](https://marcfriedmanportfolio.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcfriedman) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/marcfriedman) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@marcfriedman.com) ## 🔧 Technologies & Tools ### Frontend ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ### Backend ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ### Databases ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ### Design Tools ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ## 📊 GitHub Stats ![Marc's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcfriedman&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcfriedman&layout=compact&theme=radical) ## GitHub Trophies [![trophy](https://github-profile-trophy.vercel.app/?username=marcfriedman&theme=radical)](https://github.com/ryo-ma/github-profile-trophy) ## 💡 Latest Projects - [E-commerce Platform](https://github.com/marcfriedman/ecommerce-platform) - Complete redesign and development of a high-conversion online store - [SaaS Dashboard](https://github.com/marcfriedman/saas-dashboard) - Data visualization and analytics platform - [Fitness Tracking App](https://github.com/marcfriedman/fitness-app) - Mobile app with AI-powered recommendations ## 📫 Let's Connect I'm always open to interesting projects and collaborations. Feel free to reach out! [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcfriedman) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/marcfriedman) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@marcfriedman.com)
-Marc Friedman
-Work
-Services
-Tools
-Blog
-About
-Contact
-Full Stack
+<!-- HEADER IMAGE -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/your-github-username/your-repo/main/banner.gif" alt="Robotics Banner" width="100%">
+</p>
+
+<h1 align="center">🤖 Robotics & Automation Engineer</h1>
+
+<p align="center">
+  <b>Designing the next generation of intelligent machines and automated systems.</b><br>
+  <i>Engineer | Innovator | Creator of robotic futures</i>
+</p>
+
+---
+
+## 🚀 About Me
+
+Hi there! I'm a robotics and automation engineer with a passion for **autonomous systems**, **embedded intelligence**, and **real-world problem solving**. My work spans from low-level firmware to high-level autonomous behaviors, all while ensuring performance, efficiency, and scalability.
+
+I specialize in:
+- 🤖 **Robot Operating System (ROS/ROS2)**
+- 🧠 **Computer Vision + Control Theory**
+- ⚙️ **Embedded Systems & Mechatronics**
+- 🔧 **Industrial Automation & Simulation**
+
+---
+
+## 💻 Tech Stack & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=Mathworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gazebo-292C33?style=for-the-badge&logo=gazebo&logoColor=white"/>
+</p>
+
+---
+
+## 🔧 Skills Breakdown
+
+```yaml
+Languages:
+  - Python, C++, Embedded C, MATLAB
+Platforms:
+  - ROS/ROS2, STM32, Arduino, Raspberry Pi
+Simulation & Design:
+  - Gazebo, RViz, SolidWorks, Fusion360
+Vision & AI:
+  - OpenCV, YOLO, TensorFlow Lite
+Version Control:
+  - Git, GitHub, GitLab
