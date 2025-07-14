@@ -1,12 +1,7 @@
-<!-- 🔹 Typing Intro Animation -->
+<!-- 🔹 Digital Typing Intro Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Hi%2C+I+am+Samprad" alt="Typing Intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=28&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=500&lines=Hi%2C+I+am+Samprad" alt="Digital Display Typing" />
 </p>
-
-<!-- 🔷 Optional Banner -->
-<!-- <p align="center">
-  <img src="https://raw.githubusercontent.com/your-github-username/your-repo/main/assets/banner.gif" alt="Robotics Banner" width="100%">
-</p> -->
 
 <h1 align="center">🤖 Robotics & Automation Engineer</h1>
 
@@ -98,8 +93,6 @@ I specialize in:
 ---
 
 ## 🖼️ Portfolio Snapshots
-
-> Here's a visual taste of my robotic and embedded projects:
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/your-github-username/your-repo/main/images/project1.jpg" width="250" alt="Project 1"/>
