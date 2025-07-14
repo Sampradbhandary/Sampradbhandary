@@ -1,6 +1,6 @@
 <!-- 🔷 HEADER BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-github-username/your-repo/main/banner.gif" alt="Robotics Banner" width="100%">
+  <img src=""C:\Users\sampr\OneDrive\Desktop\robo.png"" width="100%">
 </p>
 
 <h1 align="center">🤖 Robotics & Automation Engineer</h1>
