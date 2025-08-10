@@ -85,10 +85,6 @@ I specialize in:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" width="48%"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/your-github-username?label=Follow&style=social"/>
-</p>
 
 ---
 
