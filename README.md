@@ -110,7 +110,7 @@ I specialize in:
   <a href="https://twitter.com/your-twitter" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="[https://www.instagram.com/your-instagram/](https://www.instagram.com/samprad__bhandary?igsh=YzRiMHlkNmNvYTZo)" target="_blank">
+  <a href="https://www.instagram.com/samprad__bhandary?igsh=YzRiMHlkNmNvYTZo" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://www.youtube.com/@your-channel" target="_blank">
