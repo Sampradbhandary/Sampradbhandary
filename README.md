@@ -107,7 +107,7 @@ I specialize in:
   <a href="https://www.linkedin.com/in/samprad-bhandary-266ab032a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/your-twitter" target="_blank">
+  <a href="https://x.com/Samprad_18?s=08" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/samprad__bhandary?igsh=YzRiMHlkNmNvYTZo" target="_blank">
