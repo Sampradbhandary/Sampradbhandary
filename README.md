@@ -123,9 +123,7 @@ I specialize in:
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="300px" />
-</p>
+
 
 <p align="center">
   <i>"Building smarter systems that move, think, and adapt — this is engineering the future."</i>
