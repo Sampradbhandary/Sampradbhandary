@@ -126,5 +126,5 @@ I specialize in:
 
 
 <p align="center">
-  <i>"Building smarter systems that move, think, and adapt — this is engineering the future."</i>
+  <i>"every day new learning"</i>
 </p>
